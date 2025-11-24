@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1763910659 source:c:\users\gam›ng\documents\codeblocks\munmanager\main.cpp
+	<sleeper_cap.h>
+	<samples_mun.h>
+	<iostream>
+	<fstream>
+	<iomanip>
+	<thread>
+	<string>
+	<vector>
+
+1763400552 c:\users\gam›ng\documents\codeblocks\munmanager\\sleeper_cap.h
+	<chrono>
+	<thread>
+
+1763910696 c:\users\gam›ng\documents\codeblocks\munmanager\\samples_mun.h
+	<iostream>
+	<string>
+	<thread>
+

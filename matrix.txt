@@ -1,0 +1,4 @@
+albania|al
+turkiye|tr
+united states|us
+russia|ru
